@@ -3,11 +3,13 @@
 <hr>
 <h3>How to reach me:</h3>
 <ul>
-<li>Mail:<a href="mailto:info@lutzweigold.de"> info@lutzweigold.de</a></li>
-<li>Website:<a href="https://lutzweigold.de"> lutzweigold.de</a></li>
-<li>LinkedIn:<a href="https://linkedin.com/in/lutz-weigold"> lutz-weigold</a></li>
+<li>Mail:<a target="_blank" href="mailto:info@lutzweigold.de"> info@lutzweigold.de</a></li>
+<li>Website:<a target="_blank" href="https://lutzweigold.de"> lutzweigold.de</a></li>
+<li>LinkedIn:<a target="_blank" href="https://linkedin.com/in/lutz-weigold"> lutz-weigold</a></li>
 </ul>
+
 <hr>
+
 <h3>Main Tech-Stack I use for my projects</h3>
 <h4>Languages</h4>
 <span>
@@ -48,9 +50,12 @@
 </span>
 <h4>Currently exploring:</h4>
 <span>
-    <img alt="Spring Boot badge" src="https://img.shields.io/badge/Spring_boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  
+    <img alt="Spring Boot badge" src="https://img.shields.io/badge/Spring_boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img alt="React badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </span>
+<br></br>
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdev&theme=material-palenight&custom_title=Currently%20used%20languages&hide=prs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
