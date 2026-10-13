@@ -3,8 +3,8 @@
 <hr>
 <h3>How to reach me:</h3>
 <ul>
-<li>Mail:<a target="_blank" href="mailto:info@lutzweigold.de"> info@lutzweigold.de</a></li>
-<li>Website:<a target="_blank" href="https://lutzweigold.de"> lutzweigold.de</a></li>
+<li>Mail:<a target="_blank" href="mailto:info@lutzweigold.ch"> info@lutzweigold.de</a></li>
+<li>Website:<a target="_blank" href="https://lutzweigold.ch"> lutzweigold.de</a></li>
 <li>LinkedIn:<a target="_blank" href="https://linkedin.com/in/lutz-weigold"> lutz-weigold</a></li>
 </ul>
 
