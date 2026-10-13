@@ -1,5 +1,5 @@
 <h1> Hi there 👋, I'm <a href="https://lutzweigold.de">Lutz</a>.</h1>
-<h4>Creative developer from Germany who is always looking for new projects and collaborations.</h4> 
+<h4>Creative developer based in Zürich 🇨🇭 who is always looking for new projects and collaborations.</h4> 
 <hr>
 <h3>How to reach me:</h3>
 <ul>
